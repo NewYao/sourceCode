@@ -28,6 +28,7 @@ hs_err_pid*
 .classpath
 */target/
 /.metadata/
+Servers/
 
 # idea ignore
 .idea/
